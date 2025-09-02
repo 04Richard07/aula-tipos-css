@@ -1,0 +1,32 @@
+.card {
+    background-color: rgb(255, 217, 135);
+    width: 400px;
+    height: fit-content;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 20px;
+    border: solid 2px rgb(182, 226, 255);
+}
+
+.icone2 {
+    /* background-color: aqua; */
+    width: 100px;
+    height: 100px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(95, 10, 10);
+    font-weight: 800;
+    
+}
+
+.main-color {
+    color: blueviolet;
+    font-weight: 600;
+}
